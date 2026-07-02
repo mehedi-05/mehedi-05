@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">AI/ML | Problem Solver | Tech Explorer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-05" alt="mehedi-05" /></a> </p>
-
 - 🌱 I’m currently learning **AI/ML and advanced algorithms**
 
 - 💬 Ask me about **Data Structure and Algorithm**
